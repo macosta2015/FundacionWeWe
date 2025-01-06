@@ -18,6 +18,7 @@ function App() {
         one day, today!
         Two days!
         three days
+        six
       </header>
     </div >
   );
