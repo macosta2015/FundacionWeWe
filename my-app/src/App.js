@@ -20,6 +20,7 @@ function App() {
         three days
         Four Days
         Five Days
+        Six Days
       </header>
     </div >
   );
