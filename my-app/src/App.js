@@ -21,6 +21,7 @@ function App() {
         Four Days
         Five Days
         Six Days
+        Seven Days
       </header>
     </div >
   );
