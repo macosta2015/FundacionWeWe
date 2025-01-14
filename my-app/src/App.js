@@ -24,6 +24,7 @@ function App() {
         Seven Days
         Eight Days!
         Nine Days after Costa Rica!
+        Ten Days
       </header>
     </div >
   );
