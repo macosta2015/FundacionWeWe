@@ -27,6 +27,7 @@ function App() {
         Ten Days
         Eleven Days
         Twelve Days
+        Thirteen Day
       </header>
     </div >
   );
