@@ -9,7 +9,6 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-
         Hello World,hi : )
         Hello from Mexico!
         Happy Christmas World !!!
@@ -35,6 +34,7 @@ function App() {
         Eighteen Days
         Ninghteen Days
         Eighteen Days
+        Ninghteen Days
       </header>
     </div >
   );
