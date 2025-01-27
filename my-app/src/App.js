@@ -40,7 +40,7 @@ function App() {
         Twenty Two Days
         Twenty Three Days
         Twenty Four Days
-        Twnety Five Day
+        Twnety Five Day 22
       </header>
     </div >
   );
