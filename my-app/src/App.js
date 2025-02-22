@@ -66,6 +66,7 @@ function App() {
         Fourty Seven 47
         Fouty Eight 48
         Fourty Nine 49
+        Fifty 50
       </header>
     </div >
   );
