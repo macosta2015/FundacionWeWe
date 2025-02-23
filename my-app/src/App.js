@@ -68,6 +68,7 @@ function App() {
         Fourty Nine 49
         Fifty 50
         Fifty One 51
+        Fifty Two 52
       </header>
     </div >
   );
