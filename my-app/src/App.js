@@ -72,6 +72,7 @@ function App() {
         Fifty Three 53
         Fifty Four 54
         Fifty Five 55
+        Fifty Six 56
 
       </header>
     </div >
